@@ -1,4 +1,4 @@
-#Mechanical setup
+# Mechanical setup
 This is the mechanical part of the experiment. In order to detect the change in the wavelength of light, we need a mirror moving as fast as possible. If the speed is too slow, no noticeable difference will be measured.
 Of course, this is not easy. But after several failures, I found a way of doing it that must work.
 
