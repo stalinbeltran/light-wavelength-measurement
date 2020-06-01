@@ -15,6 +15,6 @@ Control Box
 
 This experimental setup const of several modules:
 
-- Mechanical setup
+- [Mechanical setup](mechanicalSetup/index.md)
 - Control and Measurement
 - Interferometer
