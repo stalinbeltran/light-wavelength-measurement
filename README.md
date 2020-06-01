@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Wavelength measurement
 
-You can use the [editor on GitHub](https://github.com/stalinbeltran/light-wavelength-measurement/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The wavelength of light changes when its source is moving relative to an observer. The same phenomenon happen when the source of light is still relative to the observer, but the light is reflected from a moving mirror. Here I use this technique to generate that change in wavelength.
+ 
+This is the description of such experiment. This has be done with available materials, due to a limited budget.
+For example, instead of using an optical table, the elements are placed over a concrete floor, so it is subject to natural ocurring vibrations.
+That is not a problem in this case, as the interferometer is common, and only the phase difference is needed (more details on this are given in the interferometer section) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](images/HaasoscopeInBox_20180831_113711.jpg)
+Haasoscope "professional" box
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](images/controlBox_20181006_171209.jpg)
+Control Box
 
-```markdown
-Syntax highlighted code block
+This experimental setup const of several modules:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stalinbeltran/light-wavelength-measurement/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Mechanical setup
+- Control and Measurement
+- Interferometer
